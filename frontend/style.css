@@ -1,0 +1,11 @@
+main{
+}
+
+article{
+    margin: auto;
+    width: 70%;
+}
+
+table tr td{
+    border: solid black 1px;
+}
